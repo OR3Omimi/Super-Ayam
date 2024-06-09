@@ -1,14 +1,15 @@
 [
     // 模式开关
     {
-        "name": "Sandbox Mode Key",
-        "cost": 1,
-        "hurryCostModifier": 0,
+        "name": "Ayam Mode Key",
+        "cost": 45,
+        "hurryCostModifier": 2,
         "maintenance": 0,
         "uniques": [
             "Can only be built [in capital]",
             "<in cities without a [Sandbox Mode Admission]> Only available"
-        ]
+            "Ayam [+1]% [population]" 
+            ]
     },
     {
         "name": "Sandbox Mode Admission",
